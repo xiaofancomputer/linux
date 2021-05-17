@@ -16,4 +16,4 @@ DNS2=8.8.4.4
 
 # 编辑->虚拟网络编辑器
 
-![avatar](https://github.com/xiaofancomputer/image/blob/main/vmware_set.png)
+![avatar](https://github.com/xiaofancomputer/image/blob/main/%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AE%BE%E7%BD%AE.png)
